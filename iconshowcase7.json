@@ -3,7 +3,14 @@
 		[
 			{
 				"name": "ShotA",
+				"author": "Someone",
 				"url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/1.jpg"
+			},
+			{
+				"name": "ShotB",
+				"author": "Someone",
+				"url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/7.jpg",
+				"dimensions": "3200x2560"
 			},
 			{
 				"name": "ShotB",

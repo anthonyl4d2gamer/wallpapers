@@ -1,0 +1,55 @@
+{ 
+	"wallpapers": 
+		[
+			{
+				"name": "Mountains",
+				"author": "",
+				"url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/1.jpg"
+			},
+			{
+				"name": "Mountains 2",
+				"author": "",
+				"url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/2.jpg",
+			},
+			{
+				"author": "",
+				"url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/3.jpg",
+				"name": "Lambo",
+			},
+			{
+			    "name": "Skull",
+			    "author": "",
+			    "url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/4.jpg",
+			},
+			{
+			    "name": "Predator",
+			    "author": "",
+			    "url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/5.jpg",
+			},
+			{
+			    "name": "City",
+			    "author": "",
+			    "url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/6.jpg",
+			},
+			{
+			    "name": "Traffic",
+			    "author": "",
+			    "url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/7.jpg",
+			},
+			{
+			    "name": "Dragon",
+			    "author": "",
+			    "url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/8.jpg",
+			},
+			{
+			    "name": "Church",
+			    "author": "",
+			    "url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/9.jpg",
+			},
+			{
+			    "name": "Orange Carbon",
+			    "author": "",
+			    "url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/10.jpg",
+			}
+		]
+}

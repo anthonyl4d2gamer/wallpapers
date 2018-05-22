@@ -2,54 +2,86 @@
 	"wallpapers": 
 		[
 			{
-				"name": "Mountains",
-				"author": "",
-				"url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/1.jpg"
+				"name": "ShotA",
+				"author": "Someone",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg"
 			},
 			{
-				"name": "Mountains 2",
-				"author": "",
-				"url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/2.jpg",
+				"name": "ShotB",
+				"author": "Someone",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+				"dimensions": "3200x2560"
 			},
 			{
-				"author": "",
-				"url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/3.jpg",
-				"name": "Lambo",
+				"author": "Someone",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+				"name": "ShotC",
+				"dimensions": "1280x720",
+				"copyright": "Credits to its creator"
 			},
 			{
-			    "name": "Skull",
-			    "author": "",
-			    "url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/4.jpg",
+			    "name": "Wallsplash 1",
+			    "author": "wallsplash",
+			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+			    "dimensions": "3200x2560",
+			    "copyright": "Free (do whatever you want)"
 			},
 			{
-			    "name": "Predator",
-			    "author": "",
-			    "url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/5.jpg",
+			    "name": "Wallsplash 2",
+			    "author": "wallsplash",
+			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+			    "dimensions": "3200x2560",
+			    "copyright": "Free (do whatever you want)"
 			},
 			{
-			    "name": "City",
-			    "author": "",
-			    "url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/6.jpg",
+			    "name": "Wallsplash 3",
+			    "author": "wallsplash",
+			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
+			    "dimensions": "3200x2560",
+			    "copyright": "Free (do whatever you want)"
 			},
 			{
-			    "name": "Traffic",
-			    "author": "",
-			    "url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/7.jpg",
+			    "name": "Wallsplash 4",
+			    "author": "wallsplash",
+			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
+			    "dimensions": "3200x2560",
+			    "copyright": "Free (do whatever you want)"
 			},
 			{
-			    "name": "Dragon",
-			    "author": "",
-			    "url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/8.jpg",
+			    "name": "Wallsplash 5",
+			    "author": "wallsplash",
+			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
+			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+			    "dimensions": "3200x2560",
+			    "copyright": "Free (do whatever you want)"
 			},
 			{
-			    "name": "Church",
-			    "author": "",
-			    "url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/9.jpg",
+			    "name": "Wallsplash 6",
+			    "author": "wallsplash",
+			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
+			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
+			    "dimensions": "3200x2560",
+			    "copyright": "Free (do whatever you want)"
 			},
 			{
-			    "name": "Orange Carbon",
-			    "author": "",
-			    "url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/10.jpg",
+			    "name": "Wallsplash 7",
+			    "author": "wallsplash",
+			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
+			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
+			    "dimensions": "3200x2560",
+			    "copyright": "Free (do whatever you want)"
+			},
+			{
+			    "name": "Wallsplash 8",
+			    "author": "wallsplash",
+			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
+			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
+			    "dimensions": "3200x2560",
+			    "copyright": "Free (do whatever you want)"
 			}
 		]
 }

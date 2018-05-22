@@ -19,9 +19,16 @@
 				"dimensions": "3200x2560"
 			},
 			{
-				"author": "Skull",
+				"author": "Someone",
 				"url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/4.jpg",
-				"name": "ShotC",
+				"name": "Skull",
+				"dimensions": "1280x720",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"author": "Someone",
+				"url": "https://raw.githubusercontent.com/anthonyl4d2gamer/wallpapers/master/5.jpg",
+				"name": "Predator",
 				"dimensions": "1280x720",
 				"copyright": "Credits to its creator"
 			},
